@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://saschatrebbin.github.io/testblog/sitemap.xml
+Sitemap: https://blog.saschatrebbin.de/sitemap.xml

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>saschatrebbin.de</title>
-    <link href="https://saschatrebbin.github.io/testblog/feed.xml" rel="self" />
-    <link href="https://saschatrebbin.github.io/testblog" />
+    <title>blog.saschatrebbin.de</title>
+    <link href="https://blog.saschatrebbin.de/feed.xml" rel="self" />
+    <link href="https://blog.saschatrebbin.de" />
     <updated>2024-10-17T19:11:12+02:00</updated>
     <author>
         <name>Sascha Trebbin</name>
     </author>
-    <id>https://saschatrebbin.github.io/testblog</id>
+    <id>https://blog.saschatrebbin.de</id>
 
     <entry>
         <title>Testseite mit vielen Bildern</title>
         <author>
             <name>Sascha Trebbin</name>
         </author>
-        <link href="https://saschatrebbin.github.io/testblog/testseite-mit-vielen-bildern.html"/>
-        <id>https://saschatrebbin.github.io/testblog/testseite-mit-vielen-bildern.html</id>
+        <link href="https://blog.saschatrebbin.de/testseite-mit-vielen-bildern.html"/>
+        <id>https://blog.saschatrebbin.de/testseite-mit-vielen-bildern.html</id>
 
         <updated>2024-10-17T19:11:12+02:00</updated>
             <summary>
@@ -26,22 +26,22 @@
         <content type="html">
             <![CDATA[
                 <p>Das erste Bild:</p>
-<figure class="post__image"><img loading="lazy"  src="https://saschatrebbin.github.io/testblog/media/posts/3/pexels-valeriya-27519881.jpg" alt="" width="5464" height="8192" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://saschatrebbin.github.io/testblog/media/posts/3/responsive/pexels-valeriya-27519881-xs.jpg 640w ,https://saschatrebbin.github.io/testblog/media/posts/3/responsive/pexels-valeriya-27519881-sm.jpg 768w ,https://saschatrebbin.github.io/testblog/media/posts/3/responsive/pexels-valeriya-27519881-md.jpg 1024w ,https://saschatrebbin.github.io/testblog/media/posts/3/responsive/pexels-valeriya-27519881-lg.jpg 1366w ,https://saschatrebbin.github.io/testblog/media/posts/3/responsive/pexels-valeriya-27519881-xl.jpg 1600w ,https://saschatrebbin.github.io/testblog/media/posts/3/responsive/pexels-valeriya-27519881-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://blog.saschatrebbin.de/media/posts/3/pexels-valeriya-27519881.jpg" alt="" width="5464" height="8192" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://blog.saschatrebbin.de/media/posts/3/responsive/pexels-valeriya-27519881-xs.jpg 640w ,https://blog.saschatrebbin.de/media/posts/3/responsive/pexels-valeriya-27519881-sm.jpg 768w ,https://blog.saschatrebbin.de/media/posts/3/responsive/pexels-valeriya-27519881-md.jpg 1024w ,https://blog.saschatrebbin.de/media/posts/3/responsive/pexels-valeriya-27519881-lg.jpg 1366w ,https://blog.saschatrebbin.de/media/posts/3/responsive/pexels-valeriya-27519881-xl.jpg 1600w ,https://blog.saschatrebbin.de/media/posts/3/responsive/pexels-valeriya-27519881-2xl.jpg 1920w"></figure>
 <p class="align-right">Das zweite Bild:</p>
-<figure class="post__image align-right"><img loading="lazy"  src="https://saschatrebbin.github.io/testblog/media/posts/3/pexels-deann-dasilva-1997359-6471779.jpg" alt="" width="6000" height="4000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://saschatrebbin.github.io/testblog/media/posts/3/responsive/pexels-deann-dasilva-1997359-6471779-xs.jpg 640w ,https://saschatrebbin.github.io/testblog/media/posts/3/responsive/pexels-deann-dasilva-1997359-6471779-sm.jpg 768w ,https://saschatrebbin.github.io/testblog/media/posts/3/responsive/pexels-deann-dasilva-1997359-6471779-md.jpg 1024w ,https://saschatrebbin.github.io/testblog/media/posts/3/responsive/pexels-deann-dasilva-1997359-6471779-lg.jpg 1366w ,https://saschatrebbin.github.io/testblog/media/posts/3/responsive/pexels-deann-dasilva-1997359-6471779-xl.jpg 1600w ,https://saschatrebbin.github.io/testblog/media/posts/3/responsive/pexels-deann-dasilva-1997359-6471779-2xl.jpg 1920w"></figure>
+<figure class="post__image align-right"><img loading="lazy"  src="https://blog.saschatrebbin.de/media/posts/3/pexels-deann-dasilva-1997359-6471779.jpg" alt="" width="6000" height="4000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://blog.saschatrebbin.de/media/posts/3/responsive/pexels-deann-dasilva-1997359-6471779-xs.jpg 640w ,https://blog.saschatrebbin.de/media/posts/3/responsive/pexels-deann-dasilva-1997359-6471779-sm.jpg 768w ,https://blog.saschatrebbin.de/media/posts/3/responsive/pexels-deann-dasilva-1997359-6471779-md.jpg 1024w ,https://blog.saschatrebbin.de/media/posts/3/responsive/pexels-deann-dasilva-1997359-6471779-lg.jpg 1366w ,https://blog.saschatrebbin.de/media/posts/3/responsive/pexels-deann-dasilva-1997359-6471779-xl.jpg 1600w ,https://blog.saschatrebbin.de/media/posts/3/responsive/pexels-deann-dasilva-1997359-6471779-2xl.jpg 1920w"></figure>
 <p>Eine Bildergaliere:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Bilder hinzufügen" data-columns="3">
-<figure class="gallery__item"><a href="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-alex-andrews-271121-1203808.jpg" data-size="7360x4912"><img loading="lazy" src="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-alex-andrews-271121-1203808-thumbnail.jpg" alt="" width="720" height="481"></a></figure>
-<figure class="gallery__item"><a href="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-aysenur-291182593-16194085.jpg" data-size="3024x4032"><img loading="lazy" src="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-aysenur-291182593-16194085-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
-<figure class="gallery__item"><a href="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-chrissiegiann-28901280.jpg" data-size="3000x4500"><img loading="lazy" src="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-chrissiegiann-28901280-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
-<figure class="gallery__item"><a href="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-deann-dasilva-1997359-6471779.jpg" data-size="6000x4000"><img loading="lazy" src="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-deann-dasilva-1997359-6471779-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-efrem-efre-2786187-28945645.jpg" data-size="4640x6960"><img loading="lazy" src="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-efrem-efre-2786187-28945645-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
-<figure class="gallery__item"><a href="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-emanuele-nuccilli-1919977143-28754972.jpg" data-size="5616x3744"><img loading="lazy" src="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-emanuele-nuccilli-1919977143-28754972-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-kevin-ku-92347-577585.jpg" data-size="3353x2514"><img loading="lazy" src="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-kevin-ku-92347-577585-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-laura-paredis-1047081-21253737.jpg" data-size="2666x4000"><img loading="lazy" src="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-laura-paredis-1047081-21253737-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
-<figure class="gallery__item"><a href="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-nati-87264186-19959456.jpg" data-size="4000x6000"><img loading="lazy" src="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-nati-87264186-19959456-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
-<figure class="gallery__item"><a href="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-pixabay-209235.jpg" data-size="3264x2448"><img loading="lazy" src="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-pixabay-209235-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-valeriya-27519881.jpg" data-size="5464x8192"><img loading="lazy" src="https://saschatrebbin.github.io/testblog/media/posts/3/gallery/pexels-valeriya-27519881-thumbnail.jpg" alt="" width="720" height="1079"></a></figure>
+<figure class="gallery__item"><a href="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-alex-andrews-271121-1203808.jpg" data-size="7360x4912"><img loading="lazy" src="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-alex-andrews-271121-1203808-thumbnail.jpg" alt="" width="720" height="481"></a></figure>
+<figure class="gallery__item"><a href="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-aysenur-291182593-16194085.jpg" data-size="3024x4032"><img loading="lazy" src="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-aysenur-291182593-16194085-thumbnail.jpg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-chrissiegiann-28901280.jpg" data-size="3000x4500"><img loading="lazy" src="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-chrissiegiann-28901280-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
+<figure class="gallery__item"><a href="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-deann-dasilva-1997359-6471779.jpg" data-size="6000x4000"><img loading="lazy" src="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-deann-dasilva-1997359-6471779-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-efrem-efre-2786187-28945645.jpg" data-size="4640x6960"><img loading="lazy" src="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-efrem-efre-2786187-28945645-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
+<figure class="gallery__item"><a href="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-emanuele-nuccilli-1919977143-28754972.jpg" data-size="5616x3744"><img loading="lazy" src="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-emanuele-nuccilli-1919977143-28754972-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-kevin-ku-92347-577585.jpg" data-size="3353x2514"><img loading="lazy" src="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-kevin-ku-92347-577585-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-laura-paredis-1047081-21253737.jpg" data-size="2666x4000"><img loading="lazy" src="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-laura-paredis-1047081-21253737-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
+<figure class="gallery__item"><a href="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-nati-87264186-19959456.jpg" data-size="4000x6000"><img loading="lazy" src="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-nati-87264186-19959456-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
+<figure class="gallery__item"><a href="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-pixabay-209235.jpg" data-size="3264x2448"><img loading="lazy" src="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-pixabay-209235-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-valeriya-27519881.jpg" data-size="5464x8192"><img loading="lazy" src="https://blog.saschatrebbin.de/media/posts/3/gallery/pexels-valeriya-27519881-thumbnail.jpg" alt="" width="720" height="1079"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -51,20 +51,20 @@
         <author>
             <name>Sascha Trebbin</name>
         </author>
-        <link href="https://saschatrebbin.github.io/testblog/tugenden-im-modernen-leben-eine-reflexion.html"/>
-        <id>https://saschatrebbin.github.io/testblog/tugenden-im-modernen-leben-eine-reflexion.html</id>
-        <media:content url="https://saschatrebbin.github.io/testblog/media/posts/2/pexels-alex-andrews-271121-1203808.jpg" medium="image" />
+        <link href="https://blog.saschatrebbin.de/tugenden-im-modernen-leben-eine-reflexion.html"/>
+        <id>https://blog.saschatrebbin.de/tugenden-im-modernen-leben-eine-reflexion.html</id>
+        <media:content url="https://blog.saschatrebbin.de/media/posts/2/pexels-alex-andrews-271121-1203808.jpg" medium="image" />
 
         <updated>2024-10-14T22:22:18+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://saschatrebbin.github.io/testblog/media/posts/2/pexels-alex-andrews-271121-1203808.jpg" alt="" />
+                        <img src="https://blog.saschatrebbin.de/media/posts/2/pexels-alex-andrews-271121-1203808.jpg" alt="" />
                     In einer Welt, die sich ständig verändert und in der wir oft mit widersprüchlichen Anforderungen konfrontiert sind, können Tugenden als moralische Leitlinien dienen, die uns helfen, unser Leben sinnvoll und ethisch zu gestalten. Hier sind einige meiner wichtigsten Tugenden und wie sie im modernen Leben&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://saschatrebbin.github.io/testblog/media/posts/2/pexels-alex-andrews-271121-1203808.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blog.saschatrebbin.de/media/posts/2/pexels-alex-andrews-271121-1203808.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="mb-2 whitespace-pre-wrap">In einer Welt, die sich ständig verändert und in der wir oft mit widersprüchlichen Anforderungen konfrontiert sind, können Tugenden als moralische Leitlinien dienen, die uns helfen, unser Leben sinnvoll und ethisch zu gestalten.</p>
 <p>Hier sind einige meiner wichtigsten Tugenden und wie sie im modernen Leben angewendet werden können:</p>
 <h3>🧠 Die Tugend der Weisheit</h3>
@@ -177,20 +177,20 @@
         <author>
             <name>Sascha Trebbin</name>
         </author>
-        <link href="https://saschatrebbin.github.io/testblog/das-ist-eine-testseite.html"/>
-        <id>https://saschatrebbin.github.io/testblog/das-ist-eine-testseite.html</id>
-        <media:content url="https://saschatrebbin.github.io/testblog/media/posts/1/pexels-pixabay-209235.jpg" medium="image" />
+        <link href="https://blog.saschatrebbin.de/das-ist-eine-testseite.html"/>
+        <id>https://blog.saschatrebbin.de/das-ist-eine-testseite.html</id>
+        <media:content url="https://blog.saschatrebbin.de/media/posts/1/pexels-pixabay-209235.jpg" medium="image" />
 
         <updated>2024-10-14T20:53:24+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://saschatrebbin.github.io/testblog/media/posts/1/pexels-pixabay-209235.jpg" alt="" />
+                        <img src="https://blog.saschatrebbin.de/media/posts/1/pexels-pixabay-209235.jpg" alt="" />
                     Willkommen auf dieser Testseite! Diese Webseite wurde erstellt, um eine einfache und effiziente Möglichkeit zu testen, wie man statische Webseiten mit modernen Tools wie Publii, GitHub und Cloudflare Pages erstellen und hosten kann. Hier ist der Ablauf, den ich verwendet habe: Erstellung der Webseite mit&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://saschatrebbin.github.io/testblog/media/posts/1/pexels-pixabay-209235.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://blog.saschatrebbin.de/media/posts/1/pexels-pixabay-209235.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Willkommen auf dieser Testseite!</p>
 <p class="msg msg--info">Diese Webseite wurde erstellt, um eine einfache und effiziente Möglichkeit zu testen, wie man statische Webseiten mit modernen Tools wie Publii, GitHub und Cloudflare Pages erstellen und hosten kann.</p>
 <p class="mb-2 whitespace-pre-wrap">Hier ist der Ablauf, den ich verwendet habe:</p>
